@@ -1,7 +1,7 @@
 package armstrong1;
 
 
-public class armstrong2 {
+public class armstrong {
 
 	public static void main(String[] args) {
 
